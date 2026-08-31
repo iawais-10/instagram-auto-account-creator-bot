@@ -55,15 +55,21 @@ For a component-by-component explanation, see [ARCHITECTURE.md](ARCHITECTURE.md)
 
 ### 1. Laptop and iPhone running a custom iOS Instagram automation session
 
-![Laptop and iPhone running a custom iOS Instagram automation session](assets/screenshots/01-ios-automation-session.png)
+<p align="center">
+  <img src="assets/screenshots/01-ios-automation-session.png" alt="Laptop and iPhone running a custom iOS Instagram automation session" width="80%">
+</p>
 
 ### 2. iPhone verification screen connected to the automation workflow
 
-![iPhone verification screen connected to the automation workflow](assets/screenshots/02-instagram-verification-workflow.png)
+<p align="center">
+  <img src="assets/screenshots/02-instagram-verification-workflow.png" alt="iPhone verification screen connected to the automation workflow" width="80%">
+</p>
 
 ### 3. Instagram app running on an iPhone beside the automation console
 
-![Instagram app running on an iPhone beside the automation console](assets/screenshots/03-instagram-ios-automation-running.png)
+<p align="center">
+  <img src="assets/screenshots/03-instagram-ios-automation-running.png" alt="Instagram app running on an iPhone beside the automation console" width="80%">
+</p>
 
 
 ## Repository Contents
