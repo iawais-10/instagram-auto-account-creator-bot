@@ -2,7 +2,7 @@
 
 # Instagram Account Creation Automation  
 
-** A custom iOS Instagram account onboarding workflow using isolated app containers, verification integrations, and structured account tracking.**
+A custom iOS Instagram account onboarding workflow using isolated app containers, verification integrations, and structured account tracking.
 
 [![Website](https://img.shields.io/badge/Website-appilot.app-C9FF2F?style=for-the-badge&labelColor=111111)](https://www.appilot.app/) [![Demo](https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/nT_ls9OwprE)
 
