@@ -53,22 +53,12 @@ For a component-by-component explanation, see [ARCHITECTURE.md](ARCHITECTURE.md)
 
 ## Screenshots
 
-### 1. Laptop and iPhone running a custom iOS Instagram automation session
-
 <p align="center">
-  <img src="assets/screenshots/01-ios-automation-session.png" alt="Laptop and iPhone running a custom iOS Instagram automation session" width="80%">
-</p>
-
-### 2. iPhone verification screen connected to the automation workflow
-
-<p align="center">
-  <img src="assets/screenshots/02-instagram-verification-workflow.png" alt="iPhone verification screen connected to the automation workflow" width="80%">
-</p>
-
-### 3. Instagram app running on an iPhone beside the automation console
-
-<p align="center">
-  <img src="assets/screenshots/03-instagram-ios-automation-running.png" alt="Instagram app running on an iPhone beside the automation console" width="80%">
+  <img src="assets/screenshots/01-ios-automation-session.png" width="30%" />
+  &nbsp;
+  <img src="assets/screenshots/02-instagram-verification-workflow.png" width="30%" />
+  &nbsp;
+  <img src="assets/screenshots/03-instagram-ios-automation-running.png" width="30%" />
 </p>
 
 
